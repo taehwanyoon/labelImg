@@ -1,0 +1,1 @@
+C:\Users\User\anaconda3\envs\smtech00\Libcd rary\bin\designer
